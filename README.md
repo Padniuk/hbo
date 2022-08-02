@@ -4,6 +4,8 @@ Is a special app for Olka-Barabolka-Lavoryk
 
 #compilation
 
+#in source code folder
+
 $mkdir build && cd build
 
 $cmake ..
